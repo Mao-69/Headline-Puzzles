@@ -2,6 +2,7 @@
 
 ```
 requires: Selenium Webdriver-Manager , Colorama, tkinter, json
+uses word dict located in /usr/share/dict/words
 ```
 
 ### An example of obtaining a key
