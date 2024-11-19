@@ -1,5 +1,9 @@
 
 
+```
+requires: Selenium Webdriver-Manager , Colorama, tkinter, json
+```
+
 https://github.com/user-attachments/assets/c5038aa9-7634-44f6-8d6c-04c079ed4399
 
 
